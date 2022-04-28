@@ -1,4 +1,4 @@
-(Images/GarvitKulshretha.png)
+![GarvitKulshretha](https://user-images.githubusercontent.com/83578615/165661952-0036e99c-0b60-4db9-8697-3d5664320e8f.png)
 
 - Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOps.
 - I am Microsoft Certified: Azure Fundamentals Associate,Microsoft Certified: Azure AI Fundamentals Associate.
