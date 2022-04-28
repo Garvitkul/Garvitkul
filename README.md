@@ -1,3 +1,5 @@
+(Images/GarvitKulshretha.png)
+
 - Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOps.
 - I am Microsoft Certified: Azure Fundamentals Associate,Microsoft Certified: Azure AI Fundamentals Associate.
 - I am Oracle Certified: Cloud Infrastructure Associate and Aviatrix Certified: Multi Cloud Network Associate.
