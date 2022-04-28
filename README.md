@@ -8,7 +8,7 @@
 - I am the finalist of Smart India Hackathon by Indian Government, Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
 
- <h2 align="center">Find me elsewhere 🌎</h2>
+ <h2 align="center">Lets connect 🌎</h2>
  
    <p align="center">
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
