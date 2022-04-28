@@ -1,5 +1,11 @@
 ![GarvitKulshretha](https://user-images.githubusercontent.com/83578615/165661952-0036e99c-0b60-4db9-8697-3d5664320e8f.png)
 
+<!-- <div align = "center">
+ <img width="50%" height="50%" src="code.gif" alt="">
+</div> -->
+  
+<h2 align="center"> Hello World </h2>
+
 - Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOps.
 - I am Microsoft Certified: Azure Fundamentals Associate,Microsoft Certified: Azure AI Fundamentals Associate.
 - I am Oracle Certified: Cloud Infrastructure Associate and Aviatrix Certified: Multi Cloud Network Associate.
