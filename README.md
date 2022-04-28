@@ -3,8 +3,10 @@
 <h2 align="center"> Hello World 👋 </h2>
 
 - Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOps.
-- I am Microsoft Certified: Azure Fundamentals Associate,Microsoft Certified: Azure AI Fundamentals Associate.
-- I am Oracle Certified: Cloud Infrastructure Associate and Aviatrix Certified: Multi Cloud Network Associate.
+- Microsoft Certified: Azure Fundamentals Associate
+- Microsoft Certified: Azure AI Fundamentals Associate.
+- Oracle Certified: Cloud Infrastructure Associate
+- Aviatrix Certified: Multi Cloud Network Associate.
 - I am the finalist of Smart India Hackathon by Indian Government, Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
 
