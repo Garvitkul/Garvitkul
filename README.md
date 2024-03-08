@@ -12,8 +12,9 @@
 - In my free days, I'll be at a tech event speaking about DevOps and Cloud.
 - I regularly write articles on [Medium](https://medium.com/@garvitkulshrestha) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/ecc24c7d-377d-410a-9e25-2529d681f7e6" width="2%">.
 - I am actively sharing useful content on [LinkedIn](https://www.linkedin.com/in/garvit-kulshrestha) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/850b3178-6b49-45dc-a731-3e10baf14e0d" width="2%">, [GitHub](https://github.com/garvitkul) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/628cc8db-55aa-4d61-be79-c7ffa3f41577" width="2%">, [X](https://twitter.com/techwithgarvit) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/cd5b80fc-db9c-4d81-89b3-c97be5e82997" width="2%"> and [YouTube](https://www.youtube.com/channel/UC95RdBb6zOIjTh6aZVfIeQw) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/27c1eba6-9656-4b74-865b-936042607c62" width="2%">.
-- **I am open for new opportunies, here is my resume - [Resume](adjd.com).** 
-
+- **I am open for new opportunies, here is my resume - [Resume](https://drive.google.com/file/d/1DawoFVRj99qlapCvEmKo7a_-oMQPxPuV/view?usp=drive_link)).**
+- You can reach out to me at Gmail mailto:garvitindian@gmail.com
+<a href="mailto:garvitindian@gmail.com" alt="Contact me"></a>
 ## Certifications -
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: [Solutions Architect – Associate]()
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="3%"> Google Certified: [Cloud Digital Leader](https://www.credential.net/b6b5bf1b-64b9-499e-ae38-eb7ebbff7d5f?record_view=true)
