@@ -1,6 +1,6 @@
 ![Garvit Kulshretha](https://github.com/Garvitkul/Garvitkul/assets/83578615/f42f4863-ffbb-49f8-b0b9-216279ebf85a)
 
-<h2 align="center"> Hello World <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a> </h2>
+<h2 align="center"> Hello World <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h2>
 
 - Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOps.
 - Google Certified: Cloud Digital Leader
