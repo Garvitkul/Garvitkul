@@ -14,8 +14,8 @@
 - i spoke at these events
 
 ## Certifications -
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> [AWS Certified: Solutions Architect – Associate]()
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="3%"> Google Certified: Cloud Digital Leader
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: [Solutions Architect – Associate]()
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="3%"> Google Certified: [Cloud Digital Leader](https://www.credential.net/b6b5bf1b-64b9-499e-ae38-eb7ebbff7d5f?record_view=true)
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="2%"> Microsoft Certified: [Azure Fundamentals Associate](https://www.credly.com/badges/f717d568-eba8-49cf-bb5b-10e37df3e6c5/public_url) and [Azure AI Fundamentals Associate](https://www.credly.com/badges/0165cbc9-ab25-4e43-a765-7e2e1afbcd8c/public_url)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" width="2%"> Oracle Certified: [Cloud Infrastructure Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8437537510E2955A508593C7DDD56220669F9478EB598C00AB9C05B704AB0E08)
 - <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7b738d6-1c90-4911-9d04-d8933135d07c.png" width="2%"> Aviatrix Certified: [Multi Cloud Network Associate](https://www.credly.com/badges/9f55f947-3054-47b5-9cb4-e7bc65ab9e7a/public_url)
