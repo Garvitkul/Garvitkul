@@ -17,8 +17,8 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: Solutions Architect – Associate
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="3%"> Google Certified: Cloud Digital Leader
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="2%"> Microsoft Certified: Azure Fundamentals Associate, Azure AI Fundamentals Associate
-- <img src="https://p7.hiclipart.com/preview/364/878/328/oracle-database-cloud-database-oracle-corporation-oracle-cloud-cloud-computing.jpg" width="3%"> Oracle Certified: Cloud Infrastructure Associate
-- <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7b738d6-1c90-4911-9d04-d8933135d07c.png" width="3%"> Aviatrix Certified: Multi Cloud Network Associate
+- <img src="https://e7.pngegg.com/pngimages/364/878/png-clipart-oracle-database-cloud-database-oracle-corporation-oracle-cloud-cloud-computing-text-logo.png" width="3%"> Oracle Certified: Cloud Infrastructure Associate
+- <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7b738d6-1c90-4911-9d04-d8933135d07c.png" width="2%"> Aviatrix Certified: Multi Cloud Network Associate
 
 <! -- Achievements -->
 ## Achievements -
