@@ -6,9 +6,7 @@
 
 ## About Me -
 - Official AWS Community Builder 👷.
- ![image]()
-
-- Working as a DevOps <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3.5%"> and Cloud Engineer ☁️ for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world).
+- Working as a DevOps <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%"> and Cloud Engineer ☁️ for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world).
 - Actively engaged in fostering tech community through the creation of tech content and sharing useful information.
 - In my free time, I'll be judging Hackathons or taking part in them.
 - In my free days, I'll be at a tech event speaking about DevOps and Cloud.
