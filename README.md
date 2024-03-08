@@ -11,8 +11,11 @@
 - Oracle Certified: Cloud Infrastructure Associate
 - Aviatrix Certified: Multi Cloud Network Associate
 
+## Achievements -
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
+  
+## Skills -
 
  <h2 align="center">Lets connect 🌎</h2>
  
