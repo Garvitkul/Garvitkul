@@ -17,7 +17,7 @@
   
 ## Skills -
 
- <h2 align="center">Lets connect 🌎</h2> <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI" width="3%"></a> </h2>" width="3%"></a> </h2>
+ <h2 align="center">Lets connect 🌎</h2> <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI"></a> </h2>" width="3%"></a> </h2>
 
 
 
