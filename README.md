@@ -1,9 +1,20 @@
+<! -- My Background Banner -->
 ![Garvit Kulshretha](https://github.com/Garvitkul/Garvitkul/assets/83578615/f42f4863-ffbb-49f8-b0b9-216279ebf85a)
 
+<! -- Hello World -->
 <h2 align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h2>
 
+<! -- My Tagline -->
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
+I write articles here at Medium
+I create projects here at Github
+I keep engaging in things at Youtube
+I keep sharing snippts at X
+I am part of AWS COmmunity Builder
+I judged thes much hackathons
+i spoke at these events
 
+<! -- Certifications -->
 ## Certifications -
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: Solutions Architect – Associate
 - Google Certified: Cloud Digital Leader
@@ -11,10 +22,14 @@
 - Oracle Certified: Cloud Infrastructure Associate
 - Aviatrix Certified: Multi Cloud Network Associate
 
+<! -- Achievements -->
 ## Achievements -
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
-  
+
+
+
+<! -- Skills -->
 ## Skills -
 
  <h2 align="center">Lets connect <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="4%"> </h2>
