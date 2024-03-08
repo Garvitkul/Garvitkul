@@ -16,7 +16,7 @@
 ## Certifications -
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: Solutions Architect – Associate
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> Google Certified: Cloud Digital Leader
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNquy9Ncsy3C040c8tDd6dKI8OFvpZ82X06R2iK0P45COBrd7PACA7uibyZFBCfkkW78&usqp=CAU" width="3%"> Microsoft Certified: Azure Fundamentals Associate, Azure AI Fundamentals Associate
+- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.castormateriaux.com%2F%3Fi%3Dmicrosoft-azure-cloud-and-enterprise-symbol-%25E2%2580%2593-icon-set-ee-r7K6GkSW&psig=AOvVaw3HbMPC953lL84T5RFdn8cw&ust=1709969272035000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiD94qS5IQDFQAAAAAdAAAAABAX" width="3%"> Microsoft Certified: Azure Fundamentals Associate, Azure AI Fundamentals Associate
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> Oracle Certified: Cloud Infrastructure Associate
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> Aviatrix Certified: Multi Cloud Network Associate
 
