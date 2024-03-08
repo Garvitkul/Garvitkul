@@ -67,6 +67,7 @@
 ## My Articles -
 
 - https://medium.com/@garvitkulshrestha/strengthening-security-and-compliance-for-amazon-sns-with-aws-security-hub-controls-c3c1c9e02478
+- https://medium.com/@garvitkulshrestha/ensuring-security-and-compliance-in-amazon-s3-a-complete-guide-to-meeting-security-standards-581a35393e7c
 - https://medium.com/@garvitkulshrestha/conjuring-and-vanishing-s3-buckets-with-boto3-a-bewitching-blend-of-creation-and-destruction-799ffd102565
 - https://circuitdigest.com/microcontroller-projects/rfid-based-door-lock-system
 - https://www.geeksforgeeks.org/programming-esp8266-board-from-arduino-ide/
