@@ -28,18 +28,6 @@
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
 
 ## Skills -
-
- <h2 align="center">Lets connect 🌎</h2>
-
-   <p align="center">
-    
-    <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
-    <a href="https://www.instagram.com/garvit_kulshrestha/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
-    <a href="https://twitter.com/techwithgarvit" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
-    <a href="mailto:garvitindian@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="40"  height="40"/></a>
-    
-  </p>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -52,8 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
+<h2 align="center">Lets connect 🌎</h2>
+ 
 <div align="center">
   <a href="https://medium.com/@garvitkulshrestha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
