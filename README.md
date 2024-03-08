@@ -17,9 +17,9 @@
   
 ## Skills -
 
- <h2 align="center">Lets connect 🌎</h2>
+ <h2 align="center">Lets connect <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="5%"> </h2>
  
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="3%">
+
  
    <p align="center">
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
