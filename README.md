@@ -1,5 +1,5 @@
-![GarvitKulshretha](https://user-images.githubusercontent.com/83578615/165661952-0036e99c-0b60-4db9-8697-3d5664320e8f.png)
-  
+![Garvit Kulshretha](https://github.com/Garvitkul/Garvitkul/assets/83578615/f42f4863-ffbb-49f8-b0b9-216279ebf85a)
+
 <h2 align="center"> Hello World 👋 </h2>
 
 - Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOps.
