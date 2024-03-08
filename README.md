@@ -5,6 +5,7 @@
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
 
 ## About Me -
+- 😉 Currently working on something complex and cool.
 - 👷 Official AWS Community Builder.
 - 💻 Working as a DevOps <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%"> and Cloud Engineer ☁️ for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world).
 - 👨🏻‍🏫 Actively engaged in fostering tech community through the creation of tech content and sharing useful information.
@@ -24,8 +25,11 @@
 
 
 ## Achievements -
-- I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
-- I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
+- Winner of Smart India Hackathon 2022 organised by Government of India.
+- Winner of Hack-e-Green Hackathon by IIT Roorkee.
+- Finalist of Hardwar Hackathon by UPES, Dehradun.
+- Top 10 under India Automation Challenge.
+- 5 star in Python in [Hackerrank](https://www.hackerrank.com/profile/garvitindian).
 
 ## Skills -
 <div align="left">
