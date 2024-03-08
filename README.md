@@ -22,26 +22,23 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" width="2%"> Oracle Certified: [Cloud Infrastructure Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8437537510E2955A508593C7DDD56220669F9478EB598C00AB9C05B704AB0E08)
 - <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7b738d6-1c90-4911-9d04-d8933135d07c.png" width="2%"> Aviatrix Certified: [Multi Cloud Network Associate](https://www.credly.com/badges/9f55f947-3054-47b5-9cb4-e7bc65ab9e7a/public_url)
 
-<! -- Achievements -->
+
 ## Achievements -
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
 
-
-
-<! -- Skills -->
 ## Skills -
 
- <h2 align="center">Lets connect <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="4%"> </h2>
+ <h2 align="center">Lets connect 🌎</h2>
 
- 
    <p align="center">
+    <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
+    <a href="https://www.instagram.com/garvit_kulshrestha/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"> -->
     <a href="https://www.instagram.com/garvit_kulshrestha/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
 <!--   <a href="https://medium.com/@iivday21" alt="Medium"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="40"  height="40"/></a> -->
     <a href="mailto:garvitindian@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="40"  height="40"/></a>
-<!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"> -->
     
   </p>
 
