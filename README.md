@@ -32,12 +32,10 @@
  <h2 align="center">Lets connect 🌎</h2>
 
    <p align="center">
+    
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
     <a href="https://www.instagram.com/garvit_kulshrestha/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
-    <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
-<!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"> -->
-    <a href="https://www.instagram.com/garvit_kulshrestha/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
-<!--   <a href="https://medium.com/@iivday21" alt="Medium"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="40"  height="40"/></a> -->
+    <a href="https://twitter.com/techwithgarvit" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
     <a href="mailto:garvitindian@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="40"  height="40"/></a>
     
   </p>
