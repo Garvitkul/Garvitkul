@@ -17,9 +17,9 @@
   
 ## Skills -
 
- <h2 align="center">Lets connect 🌎</h2> <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZheDVzbnk1dmN2cGE1ZWpjcGVubHl4dnBpdDd1amVhZGV5MXV3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="3%"></a> </h2>" width="3%"></a> </h2>
+ <h2 align="center">Lets connect 🌎</h2> <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI" width="3%"></a> </h2>" width="3%"></a> </h2>
 
- <iframe src="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ <iframe src="" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
  
  <p><a href="https://giphy.com/stickers/world-planet-globe-LQo5HzZnmZQ74Uc8tI">via GIPHY</a></p>
 
