@@ -12,7 +12,8 @@
 - Aviatrix Certified: Multi Cloud Network Associate
 
 ## Medium Articles - 
-[![Medium Articles](https://miro.medium.com/v2/resize:fit:550/format:webp/1*bLWOKs0QzAPryb6E7s80LA.png)](https://medium.com/@garvitkulshrestha)
+[![Medium Articles](https://miro.medium.com/v2/resize:fit:440/format:webp/1*bLWOKs0QzAPryb6E7s80LA.png)](https://medium.com/@garvitkulshrestha/conjuring-and-vanishing-s3-buckets-with-boto3-a-bewitching-blend-of-creation-and-destruction-799ffd102565) 
+[![Medium Articles](https://miro.medium.com/v2/resize:fit:440/format:webp/1*uLwrHoVQo6WjIRgsYqabLA.png)](https://medium.com/@garvitkulshrestha/strengthening-security-and-compliance-for-amazon-sns-with-aws-security-hub-controls-c3c1c9e02478) 
 
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
