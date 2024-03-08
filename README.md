@@ -19,11 +19,6 @@
 
  <h2 align="center">Lets connect 🌎</h2>
 
-![Garvit Kulshretha](https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI)
-
- <h2 align="center"> Hello World <a href=""></a> </h2>
-
-
  
    <p align="center">
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
