@@ -4,7 +4,7 @@
 
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
 
-##Certifications -
+## Certifications -
 - AWS Certified: Solutions Architect – Associate
 - Google Certified: Cloud Digital Leader
 - Microsoft Certified: Azure Fundamentals Associate, Azure AI Fundamentals Associate
