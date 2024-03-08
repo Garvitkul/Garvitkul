@@ -19,9 +19,10 @@
 
  <h2 align="center">Lets connect 🌎</h2> <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI" width="3%"></a> </h2>" width="3%"></a> </h2>
 
- <iframe src="" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- 
- <p><a href="https://giphy.com/stickers/world-planet-globe-LQo5HzZnmZQ74Uc8tI">via GIPHY</a></p>
+
+
+ <h2 align="center"> Hello World <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI" width="3%"></a> </h2>
+
 
  
    <p align="center">
