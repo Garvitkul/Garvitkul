@@ -3,12 +3,13 @@
 <h2 align="center"> Hello World <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h2>
 
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
-- Hi, I am Garvit Kulshrestha. I love Cloud, IoT and DevOp.
+- AWS Certified: Solutions Architect – Associate
 - Google Certified: Cloud Digital Leader
-- Microsoft Certified: Azure Fundamentals Associate
-- Microsoft Certified: Azure AI Fundamentals Associate.
+- Microsoft Certified: Azure Fundamentals Associate, Azure AI Fundamentals Associate
 - Oracle Certified: Cloud Infrastructure Associate
-- Aviatrix Certified: Multi Cloud Network Associate.
+- Aviatrix Certified: Multi Cloud Network Associate
+
+
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
 
