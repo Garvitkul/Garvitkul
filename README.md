@@ -17,7 +17,7 @@
   
 ## Skills -
 
- <h2 align="center">Lets connect <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="5%"> </h2>
+ <h2 align="center">Lets connect <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="4%"> </h2>
  
 
  
