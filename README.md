@@ -16,7 +16,7 @@
 [![Medium Articles](https://miro.medium.com/v2/resize:fit:440/format:webp/1*uLwrHoVQo6WjIRgsYqabLA.png)](https://medium.com/@garvitkulshrestha/strengthening-security-and-compliance-for-amazon-sns-with-aws-security-hub-controls-c3c1c9e02478) 
 
 ## Twitter -
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TechWithGarvit)](https://github.com/techwithgarvit)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=techwithgarvit)](https://github.com/techwithgarvit)
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
 
