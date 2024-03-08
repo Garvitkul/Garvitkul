@@ -5,13 +5,12 @@
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
 
 ## About Me -
-- I write articles here at Medium
-- I create projects here at Github
-- I keep engaging in things at Youtube
-- I keep sharing snippts at X
-- I am part of AWS COmmunity Builder
-- I judged thes much hackathons
-- i spoke at these events
+- Official AWS Community Builder
+- Working as a DevOps and Cloud Engineer for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world)
+- Actively engaged in fostering tech community through the creation of tech content and sharing useful information.
+- In my free time, I'll be judging Hackathons or taking part in them.
+- In my free days, I'll be at a tech event speaking about DevOps and Cloud.
+- You can find me on [Medium](https://medium.com/@garvitkulshrestha), [LinkedIn](https://www.linkedin.com/in/garvit-kulshrestha), [GitHub](https://github.com/garvitkul), [X](https://twitter.com/techwithgarvit) and [YouTube](https://www.youtube.com/channel/UC95RdBb6zOIjTh6aZVfIeQw).
 
 ## Certifications -
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: [Solutions Architect – Associate]()
