@@ -11,7 +11,7 @@
 - Oracle Certified: Cloud Infrastructure Associate
 - Aviatrix Certified: Multi Cloud Network Associate
 
-[![Medium Articles](https://github-readme-medium.vercel.app/?username=garvitkulshrestha)](https://medium.com/@garvitkulshrestha)
+[![Medium Articles](https://github-readme-medium.vercel.app/?username=garvitkulshrestha&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@garvitkulshrestha)
 
 - I am the Winner of Smart India Hackathon by Indian Government, Finalist of Hack-e-Green by IIT Roorkee, Hardwar by UPES (All are Hardware Hackathons)
 - I have done my internships in Azure Cloud, IoT, Cybersecurity and Computer Vision.
