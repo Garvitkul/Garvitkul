@@ -1,7 +1,7 @@
 ![Garvit Kulshretha](https://github.com/Garvitkul/Garvitkul/assets/83578615/f42f4863-ffbb-49f8-b0b9-216279ebf85a)
 
-<h2 align="center"> Hello World <a href="https://www.garvitkul.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+<h2 align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h2>
+
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
 
 ## Certifications -
@@ -18,7 +18,8 @@
 ## Skills -
 
  <h2 align="center">Lets connect 🌎</h2>
-
+ 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh4ZGc0Y3R1MnF0cjcwa3pseTR0NTlpbDZyaGl4amFnbXFmcnpsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="3%">
  
    <p align="center">
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
