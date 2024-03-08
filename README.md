@@ -18,7 +18,7 @@
 ## Skills -
 
  <h2 align="center">Lets connect 🌎</h2>
- 
+ <h2 align="center"> Hello World <a href="<h2 align="center"> Hello World <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> </h2>" width="3%"></a> </h2>
    <p align="center">
     <a href="https://www.linkedin.com/in/garvit-kulshrestha/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"> -->
