@@ -60,8 +60,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="40" alt="grafana logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/garvitkul/garvitkul/output/snake.svg" alt="Snake animation" />
-
 <h2 align="center">Lets connect 🌎</h2>
  
 <div align="center">
