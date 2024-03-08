@@ -5,8 +5,9 @@
 > **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines.**
 
 ## About Me -
-- Official AWS Community Builder
-- Working as a DevOps and Cloud Engineer for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world)
+- Official AWS Community Builder.
+- Working as a DevOps<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%"> and Cloud Engineer![image](https://github.com/Garvitkul/Garvitkul/assets/83578615/561de1bf-9f52-4969-972e-45ca200e841e)
+ for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world).
 - Actively engaged in fostering tech community through the creation of tech content and sharing useful information.
 - In my free time, I'll be judging Hackathons or taking part in them.
 - In my free days, I'll be at a tech event speaking about DevOps and Cloud.
