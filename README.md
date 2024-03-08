@@ -10,7 +10,8 @@
 - Actively engaged in fostering tech community through the creation of tech content and sharing useful information.
 - In my free time, I'll be judging Hackathons or taking part in them.
 - In my free days, I'll be at a tech event speaking about DevOps and Cloud.
-- You can find me on [Medium](https://medium.com/@garvitkulshrestha), [LinkedIn](https://www.linkedin.com/in/garvit-kulshrestha), [GitHub](https://github.com/garvitkul), [X](https://twitter.com/techwithgarvit) and [YouTube](https://www.youtube.com/channel/UC95RdBb6zOIjTh6aZVfIeQw).
+- You can find me on [Medium](https://medium.com/@garvitkulshrestha) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/ecc24c7d-377d-410a-9e25-2529d681f7e6" width="3%">, [LinkedIn](https://www.linkedin.com/in/garvit-kulshrestha) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%">, [GitHub](https://github.com/garvitkul) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%">, [X](https://twitter.com/techwithgarvit) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%"> and [YouTube](https://www.youtube.com/channel/UC95RdBb6zOIjTh6aZVfIeQw) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%">.
+![image]()
 
 ## Certifications -
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: [Solutions Architect – Associate]()
