@@ -14,10 +14,10 @@
 - i spoke at these events
 
 ## Certifications -
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: Solutions Architect – Associate
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> [AWS Certified: Solutions Architect – Associate]()
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="3%"> Google Certified: Cloud Digital Leader
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="2%"> Microsoft Certified: Azure Fundamentals Associate and Azure AI Fundamentals Associate
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" width="2%"> Oracle Certified: Cloud Infrastructure Associate
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" width="2%"> Oracle Certified: [Cloud Infrastructure Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8437537510E2955A508593C7DDD56220669F9478EB598C00AB9C05B704AB0E08)
 - <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7b738d6-1c90-4911-9d04-d8933135d07c.png" width="2%"> Aviatrix Certified: Multi Cloud Network Associate
 
 <! -- Achievements -->
