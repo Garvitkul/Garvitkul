@@ -17,11 +17,11 @@
   
 ## Skills -
 
- <h2 align="center">Lets connect 🌎</h2> <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI"></a> </h2>"></a> </h2>
+ <h2 align="center">Lets connect 🌎</h2>
 
+![Garvit Kulshretha](https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI)
 
-
- <h2 align="center"> Hello World <a href="https://giphy.com/embed/LQo5HzZnmZQ74Uc8tI"></a> </h2>
+ <h2 align="center"> Hello World <a href=""></a> </h2>
 
 
  
