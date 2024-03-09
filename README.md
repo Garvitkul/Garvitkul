@@ -71,7 +71,7 @@
 - https://medium.com/@garvitkulshrestha/conjuring-and-vanishing-s3-buckets-with-boto3-a-bewitching-blend-of-creation-and-destruction-799ffd102565
 - https://circuitdigest.com/microcontroller-projects/rfid-based-door-lock-system
 - https://www.geeksforgeeks.org/programming-esp8266-board-from-arduino-ide/
-- https://www.electronicwings.com/users/anujkul72/projects/1935/temperature-and-humidity-monitoring-using-azure-iot-hub
+- https://www.electronicwings.com/users/GarvitKul/projects/1935/temperature-and-humidity-monitoring-using-azure-iot-hub
 - https://www.geeksforgeeks.org/enabling-third-party-app-login-using-google-account/
 
 <h2 align="center">Lets connect 🌎</h2>
