@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h2>
 
-> **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines. Official AWS Community Builder**
+> **AWS Certified Cloud-native DevOps Engineer with 1.5+ years of experience in designing, implementing, and managing scalable and secure cloud-based infrastructure and CI/CD pipelines. Official AWS Community Builder actively contributing to the growth and learning of the tech community.**
 
 ## About Me -
 - 😉 Currently working on something complex and cool.
