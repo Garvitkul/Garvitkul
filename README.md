@@ -17,7 +17,6 @@
 - 📧 You can reach out to me at garvitindian@gmail.com <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/77f95f78-c44e-4ed3-a607-432efdc57045" width="2%">.
 
 ## Certifications -
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="3%"> AWS Certified: [Solutions Architect – Associate]()
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="3%"> Google Certified: [Cloud Digital Leader](https://www.credential.net/b6b5bf1b-64b9-499e-ae38-eb7ebbff7d5f?record_view=true)
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="2%"> Microsoft Certified: [Azure Fundamentals Associate](https://www.credly.com/badges/f717d568-eba8-49cf-bb5b-10e37df3e6c5/public_url) and [Azure AI Fundamentals Associate](https://www.credly.com/badges/0165cbc9-ab25-4e43-a765-7e2e1afbcd8c/public_url)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" width="2%"> Oracle Certified: [Cloud Infrastructure Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8437537510E2955A508593C7DDD56220669F9478EB598C00AB9C05B704AB0E08)
