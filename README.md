@@ -1,4 +1,4 @@
-![Garvit Kulshretha](https://github.com/Garvitkul/Garvitkul/assets/83578615/f42f4863-ffbb-49f8-b0b9-216279ebf85a)
+![Garvit Kulshrestha](https://github.com/user-attachments/assets/c12c8ba7-1439-4de5-bc8c-5d824a04b45e)
 
 <h2 align="center"> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h2>
 
