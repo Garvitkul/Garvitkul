@@ -7,6 +7,8 @@
 ## About Me -
 - 😉 Currently working on something complex and cool.
 - 👷 Official AWS Community Builder.
+- 👨🏼‍🎓 Perplexity AI Business Fellow.
+- ☁️ Managing Cloud at Zynga Games (A global leader in social mobile gaming, connecting millions through innovative play).
 - 💻 Working as a DevOps <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Devops-toolchain-es.svg" width="3%"> and Cloud Engineer ☁️ for [Euronext](https://en.wikipedia.org/wiki/Euronext) (Largest center for debt and funds listings in the world).
 - 👨🏻‍🏫 Actively engaged in fostering tech community through the creation of tech content and sharing useful information.
 - ✨ In my free time, I'll be judging Hackathons or taking part in them.
