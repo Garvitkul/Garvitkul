@@ -81,7 +81,7 @@
  
 <div align="center">
   <a href="https://medium.com/@garvitkulshrestha" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=sIQ7pEkjnEJW&format=png&color=000000" width="52" height="40" alt="medium logo"  />
+    <img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=FFFFFF" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://www.linkedin.com/in/garvit-kulshrestha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
