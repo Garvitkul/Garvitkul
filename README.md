@@ -15,7 +15,7 @@
 - 🎤 In my free days, I'll be at a tech event speaking about DevOps and Cloud.
 - 📝 I write articles on [Medium](https://medium.com/@garvitkulshrestha) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/ecc24c7d-377d-410a-9e25-2529d681f7e6" width="2%">.
 - 📚 I am actively sharing useful content on [LinkedIn](https://www.linkedin.com/in/garvit-kulshrestha) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/850b3178-6b49-45dc-a731-3e10baf14e0d" width="2%">, [GitHub](https://github.com/garvitkul) <img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000" width="2%">, [X](https://twitter.com/techwithgarvit) <img src="https://img.icons8.com/?size=100&id=hHgWf9QXX9GA&format=png&color=000000" width="2%"> and [YouTube](https://www.youtube.com/channel/UC95RdBb6zOIjTh6aZVfIeQw) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/27c1eba6-9656-4b74-865b-936042607c62" width="2%">, [YouTube](https://www.youtube.com/channel/UCR2mLsTmgA5RHA2OC20nZaQ) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/27c1eba6-9656-4b74-865b-936042607c62" width="2%">.
-- 💼 **Here is my resume - [Resume](https://drive.google.com/file/d/1DawoFVRj99qlapCvEmKo7a_-oMQPxPuV/view?usp=drive_link).**
+- 💼 **Here is my resume - [Resume](https://drive.google.com/file/d/10I4e_sn8qTqRbXbQsrS6nkqnMbuo2PpQ/view?usp=sharing).**
 - 📧 You can reach out to me at garvitindian@gmail.com <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/77f95f78-c44e-4ed3-a607-432efdc57045" width="2%">.
 
 ## Certifications -
@@ -26,6 +26,8 @@
 
 
 ## Achievements -
+- Official AWS Community Builder
+- Perplexity AI Business Fellow
 - Winner of Smart India Hackathon 2022 organised by Government of India.
 - Winner of Hack-e-Green Hackathon by IIT Roorkee.
 - Finalist of Hardwar Hackathon by UPES, Dehradun.
@@ -79,7 +81,7 @@
  
 <div align="center">
   <a href="https://medium.com/@garvitkulshrestha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://img.icons8.com/?size=100&id=sIQ7pEkjnEJW&format=png&color=000000" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://www.linkedin.com/in/garvit-kulshrestha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
